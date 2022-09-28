@@ -6,3 +6,8 @@
 ## Problems 1-3. Kepler Solvers
 
 ### Instructions for using the Kepler solver code
+
+In jupyter notebook:
+- Click kernel > restart & run all
+
+- All outputs (.csv's) will be saved in /data folder.
